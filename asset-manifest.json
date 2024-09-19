@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mindfuldiary_meal/static/css/main.f536a682.css",
+    "main.js": "/mindfuldiary_meal/static/js/main.f6ab6674.js",
+    "static/js/787.624478bc.chunk.js": "/mindfuldiary_meal/static/js/787.624478bc.chunk.js",
+    "static/media/book_purple.jpg": "/mindfuldiary_meal/static/media/book_purple.4c42a41906af2fe5cfa7.jpg",
+    "static/media/lock.jpg": "/mindfuldiary_meal/static/media/lock.6fc7a5fc912eb472f61e.jpg",
+    "static/media/book_blue.jpg": "/mindfuldiary_meal/static/media/book_blue.3c0c5017523643103dfe.jpg",
+    "static/media/chat.jpg": "/mindfuldiary_meal/static/media/chat.af3567505d32ec82c4af.jpg",
+    "index.html": "/mindfuldiary_meal/index.html",
+    "main.f536a682.css.map": "/mindfuldiary_meal/static/css/main.f536a682.css.map",
+    "main.f6ab6674.js.map": "/mindfuldiary_meal/static/js/main.f6ab6674.js.map",
+    "787.624478bc.chunk.js.map": "/mindfuldiary_meal/static/js/787.624478bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f536a682.css",
+    "static/js/main.f6ab6674.js"
+  ]
+}
